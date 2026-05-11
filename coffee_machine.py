@@ -81,4 +81,5 @@ while ask=="yes":
     My_Coffee()
     ask=input("Type 'yes' to order your coffee....")
 
-        
+def github_test():
+    return "Contribution test successful"
