@@ -286,7 +286,7 @@ The machine starts with the following resources:
 
 <tr>
 <td><strong>3️⃣ Run Program</strong></td>
-<td><code>python main.py</code></td>
+<td><code>coffee_machine.py</code></td>
 <td>Launch the coffee machine</td>
 </tr>
 
